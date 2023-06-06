@@ -15,7 +15,8 @@ int main() {
 	time = distance/velocity;
 
 	cout << endl;
-	cout << "new changess" << endl;
+	cout << "New changes" << endl;
+    cout << endl;
 	cout << "At " << velocity << " mph it will take " << time << " hours to travel " << distance << " miles." << endl;
 	
 	return 0;
